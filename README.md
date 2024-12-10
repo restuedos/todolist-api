@@ -23,7 +23,7 @@ Dokumentasi API Swagger tersedia di: `/api-docs`
 
 1. Clone repositori:
    ```bash
-   git clone https://github.com/your-repo/todolist-api.git
+   git clone https://github.com/restuedos/todolist-api.git
    cd todolist-api
    
 2. Instal dependensi:

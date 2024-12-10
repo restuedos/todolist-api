@@ -32,7 +32,7 @@ Dokumentasi API Swagger tersedia di: `/api-docs`
    
 3. Buat file `.env`:
    ```bash
-   PORT=5000
+   PORT=3000
    MONGODB_URI=<mongodb_uri>
    JWT_SECRET=<secret>
    

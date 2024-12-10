@@ -25,3 +25,18 @@ Dokumentasi API Swagger tersedia di: `/api-docs`
    ```bash
    git clone https://github.com/your-repo/todolist-api.git
    cd todolist-api
+   
+2. Instal dependensi:
+   ```bash
+   npm install
+   
+3. Buat file `.env`:
+   ```bash
+   PORT=5000
+   MONGODB_URI=<mongodb_uri>
+   JWT_SECRET=<secret>
+   
+3. Jalankan server:
+   ```bash
+   npm start
+   
